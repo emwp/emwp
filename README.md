@@ -12,7 +12,7 @@ I am a curious person by nature, so I am always looking to sharpen my knowledge 
 - Infra/Tools: Docker, AWS, GitHub Actions, CircleCI, DataDog, Sentry, Vercel.
 - Others: Webpack, Eslint, Prettier, Yarn, NPM, PNPM, Redux, Zustand, Recoil, Prisma, Storybook, Apollo, Urql, graphql-codegen.
 
-## Links🔗
+## 🔗 Links
 <p>
   <a href="https://twitter.com/@evertonmwp/">Twitter</a><br/>
   <a href="https://www.linkedin.com/in/emwp/">Linkedin</a><br/>
