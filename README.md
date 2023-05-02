@@ -1,5 +1,5 @@
 
-Welcome to my GitHub! I'm Everton Pereira, a simple software engineer from Brazil currently living and working in cold Estonia, currently I work at <a href="https://yolo.com">Yolo Group</a>.
+Welcome to my GitHub! I'm Everton Pereira, a simple software engineer from Brazil, currently I work at <a href="https://monogram.io">Monogram</a>.
 
 ## 👷‍♂️ About Me
 I'm a software engineer with a focus on front-end development. Currently working in the react ecosystem and developing fast, testable and reliable applications with React, Next.js, Typescript, GraphQL, and a bunch of other cool technologies. 
