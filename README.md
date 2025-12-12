@@ -14,7 +14,6 @@ I am a curious person by nature, so I am always looking to sharpen my knowledge 
 
 ## 🔗 Links
 <p>
-  <a href="https://twitter.com/@evertonmwp/">Twitter</a><br/>
   <a href="https://www.linkedin.com/in/emwp/">Linkedin</a><br/>
 </p>
 
